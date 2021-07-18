@@ -1,0 +1,12 @@
+name: Framez
+version: 1.0.0
+api-version: 1.16
+description: Create objects, panels, images with "virtual" ItemFrames
+authors: [FelixBau]
+
+main: de.flxnet.framez.FramezPlugin
+
+commands:
+   tile:
+      description: Tile management command
+      usage: </command>
